@@ -1,0 +1,11 @@
+Assignment 1
+
+
+
+Write an application (A Class called Calculate) that include the following:
+•	Inputs three integers from the user.
+•	Calculates the sum, average, product, smallest and largest number.
+•	Displays the sum, average, product, smallest, and largest of the numbers. 
+
+Use the technique used in chapter 2. 
+The result of the average should be an “int” value.

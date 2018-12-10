@@ -1,0 +1,8 @@
+Use a one-dimensional array to solve the following problem:
+Write an application that inputs 5 numbers, each of which is
+between 10 and 100, inclusive.  As each number is read,
+display it only if it is not a duplicate of a nubmer already
+read.  Provide for the "worst case," in which all 5 numbers
+are different.  Use the smallest possible array to solve
+this problem.  Display the complete set of unique values input
+after the user inputs each new value.

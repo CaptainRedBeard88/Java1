@@ -1,0 +1,21 @@
+Assignment 2
+
+1.	Write an empty class declaration for a class named Student.
+
+2.	Declare five instance variables in the class. A String variable for the first name, a String variable for the last name and three double variables that are used to store a student’s exam grades.
+
+3.	Declare a constructor that takes five parameters—two Strings and three doubles. Use these parameters to initialize the instance variables declared earlier.
+
+4.	Modify the class to include a get and a set method for each of the instance variables in the class.
+
+5.	Modify the class to include a getAverage method that calculates and returns the average of the three exam grades.
+
+6.	Declare an empty StudentTest class to use the capabilities of your new Student class.
+
+7.	In the class StudentTest, declare a main method that creates an instance of class Student.
+
+8.	Create an object that references the class Student
+
+9.	Use that object to call the set and the get methods. 
+
+10.	Output the name and average for that object.
